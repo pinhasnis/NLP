@@ -6,7 +6,6 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Set;
 
-//fucking shit yessssssssss
 public class findAcrInData {
 
 	public static String path = "C:\\Users\\pinhas\\Desktop\\nlp ex2\\";
